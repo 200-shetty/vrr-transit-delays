@@ -1,0 +1,11 @@
+
+.venv/
+raw_polls/
+static_gtfs/
+parsed/
+*.log
+*.err
+*.pid
+__pycache__/
+*.pyc
+.DS_Store
